@@ -1,0 +1,5 @@
+konlpy 설치 방법
+- 자바 JDK 설치
+- JPype 설치
+- 참고 : https://blog.naver.com/rkdalstj7504/223328442492
+
