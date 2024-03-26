@@ -22,3 +22,8 @@
 ---
 
 - [ ] 2024.03.22 ~           Middle Project
+
+
+- [chapter 00 프로젝트 기획서]
+
+- [chapter 01 데이터 전처리](https://github.com/minkyunglee1012/Project_zip/tree/master/01.%EC%97%90%ED%94%84%ED%82%AC%EB%9F%AC/01.01%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC)
