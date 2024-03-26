@@ -1,9 +1,10 @@
 # **Project_zip**
 
 
-- [x] 2024.01.30 ~ 2024.02.06 Mini Project 
+- [x] 2024.01.30 ~ 2024.02.06 Mini Project - 전국구
 
-![ppt앞표지사진](https://github.com/minkyunglee1012/Miny-Project--/assets/156975194/62973dbd-0fd5-4009-b6a8-affe87319725)
+![ppt앞표지사진](https://github.com/minkyunglee1012/Project_zip/assets/156975194/b25e0ced-2d9f-43e4-8585-4ba03827a960)
+
 
 - [chapter 00 프로젝트 기획서](https://github.com/minkyunglee1012/Miny-Project--/tree/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C)
 
