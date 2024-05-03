@@ -1,7 +1,7 @@
 # **Project_zip**
 
 
-- [x] 2024.01.30 ~ 2024.02.06 Mini Project - 전국구
+- [x] 2024.01.30 ~ 2024.02.06 Mini EDA Project - 전국구
 
 ![ppt앞표지사진](https://github.com/minkyunglee1012/Project_zip/assets/156975194/b25e0ced-2d9f-43e4-8585-4ba03827a960)
 
