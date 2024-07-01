@@ -21,7 +21,7 @@
 
 ---
 
-- [ ] 2024.03.22 ~           Middle Project - Fkiller
+- [x] 2024.03.22 ~           Middle Project - Fkiller
 
 
 - [chapter 00 프로젝트 기획서]
